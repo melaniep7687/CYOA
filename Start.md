@@ -2,6 +2,6 @@
 ## Start 
 ---
 What do you do on Halloween?
-## [Go home](Gohome.md)
-## [Go trick or treating](Gotrickortreating.md)
-## [Go to party](Gotoparty.md)
+## [Go home](Choices/Gohome.md)
+## [Go trick or treating](Choices/Gotrickortreating.md)
+## [Go to party](Choices/Gotoparty.md)
