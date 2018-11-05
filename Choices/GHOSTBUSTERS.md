@@ -1,6 +1,6 @@
 # GHOSTBUSTERS
 ---
-![ghostbuster](download3.jpeg)
+![ghostbuster](download3.gif)
 
 Turns out you have a ghost and its been eating all you food! Do you want to keep it or tell the ghostbusters to get rid of it?
 ## [Keep it](Keepit.md)
