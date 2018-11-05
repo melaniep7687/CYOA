@@ -8,4 +8,3 @@ You are put in the back of a van and taken to a remote location that has no powe
 
 [wire](wire.md)
 
-![fire](download.jpeg)
