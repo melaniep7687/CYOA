@@ -7,3 +7,4 @@ You are put in the back of a van and taken to a remote location that has no powe
 [Broken piece of glass](glass.md)  
 
 [wire](wire.md)
+![fire](download.jpeg)
