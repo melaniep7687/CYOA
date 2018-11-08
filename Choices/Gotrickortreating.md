@@ -1,6 +1,6 @@
 # Do you go alone or with friends ?
 
-![candy](download2.jpg)
+![candy](tenor.gif)
 
 ## [Alone](alone.md)
 ## [With friends](friends.md)
