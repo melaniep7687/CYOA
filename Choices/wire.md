@@ -3,6 +3,6 @@
 
 You use our teeth to cut the tape. You grap the wire and when the kidnapper walks in you choke him with it. You are now free! Happy Halloween!
 
-![wire](wire.md)
+![wire](wire.jpeg)
 
 [Restart](../Start.md)
